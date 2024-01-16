@@ -8,5 +8,10 @@ public class LoginPage extends BaseClass{
 	{
 		System.out.println(" Login page Login Functionality");
 	}
+	
+	public void enterValidCredintial()
+	{
+		System.out.println("Valid Crediential");
+	}
 
 }
