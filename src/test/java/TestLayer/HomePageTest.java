@@ -9,5 +9,6 @@ public class HomePageTest extends BaseClass {
 	{
 		HomePage homePage=new HomePage();
 		homePage.homePageTest();
+		homePage.homePageTitle();
 	}
 }
