@@ -11,6 +11,8 @@ public class RegisterPageTest extends BaseClass{
 		RegisterPage register= new RegisterPage();
 		
 		register.registerPageFunctionality();
+		
+		register.registerPageUrl();
 	}
 
 }

@@ -10,5 +10,11 @@ public class RegisterPage extends BaseClass{
 		
 		System.out.println("Register page Tc");
 	}
+	
+	public void registerPageUrl()
+	{
+		
+		System.out.println("Url");
+	}
 
 }
