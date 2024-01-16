@@ -10,7 +10,7 @@ public class SignUpPageTest extends BaseClass
 	{
 		SignupPage signpage =new SignupPage();
 		signpage.signUp();
-					
+		signpage.signUpPageTitle();		
 				
 	}
 }
