@@ -8,4 +8,8 @@ public class SignupPage  extends BaseClass
 	{
 		System.out.println("signUppage testcase");
 	}
+	public void signUpPageTitle()
+	{
+		System.out.println("sign Up page title");
+	}
 }
