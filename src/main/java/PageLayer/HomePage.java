@@ -8,5 +8,9 @@ public class HomePage extends BaseClass{
 	{
 		System.out.println("Home Page TestCase");
 	}
+	public void homePageTitle()
+	{
+		System.out.println("Home page Title TestCase");
+	}
 
 }
